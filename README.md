@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Software developer (preferred languages/frameworks: python & vuejs)
+- Aviation enthusiast
+- Based near Frankfurt, Germany
+
 <!--
 **LocoMH/LocoMH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
